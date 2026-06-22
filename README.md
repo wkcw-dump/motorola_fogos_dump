@@ -1,0 +1,20 @@
+## user 15 V1UGS35H.75-14-9-3-1-2 9ef850 release-keys
+- Manufacturer: motorola
+- Platform: holi
+- Codename: fogos
+- Brand: motorola
+- Flavor: user
+- Release Version: 15
+- Kernel Version: 5.4.295
+- Id: V1UGS35H.75-14-9-3-1-2
+- Incremental: 9ef850
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 280
+- Fingerprint: motorola/fogos_g/fogos:11/V1UGS35H.75-14-9-3-1-2/9ef850:user/release-keys
+- OTA version: 
+- Branch: user-15-V1UGS35H.75-14-9-3-1-2-9ef850-release-keys
+- Repo: motorola_fogos_dump
