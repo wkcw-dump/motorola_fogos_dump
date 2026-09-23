@@ -1,0 +1,9 @@
+# Copyright (c) 2019-2020, The Linux Foundation. All rights reserved.
+#
+# Motorola product module block list
+#
+
+blocklist mmi_annotate.ko
+blocklist mmi_info.ko
+blocklist qpnp_adaptive_charge.ko
+blocklist mmi-smbcharger-iio.ko
